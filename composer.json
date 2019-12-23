@@ -1,0 +1,16 @@
+{
+  "name": "hvanyo/elementor-pro",
+  "description": "Elementor Pro",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/hvanyo/elementor-pro",
+  "authors": [
+    {
+      "name": "Elementor",
+      "homepage": "https://elementor.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
